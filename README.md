@@ -2,7 +2,7 @@
 
 by: Ydonna Pearl Quiano
 
-[My Published app]
+[My Published app]https://miniature-umbrella-7v9j4xj6jr66cwwp4-8501.app.github.dev/
 
 This is the app you get when you run `streamlit hello`, extracted as its own app.
 
